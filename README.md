@@ -27,6 +27,11 @@ house-price-prediction/
   - Decision Tree
   - Random Forest
  
+
+
+Open outout.csv and input-copy to check how much accuracy my model has given
+
+ 
   - 
 - 📈 Model evaluation using **Cross Validation (RMSE)**.  
 - 💾 Model saving/loading with **Joblib** for deployment.  
